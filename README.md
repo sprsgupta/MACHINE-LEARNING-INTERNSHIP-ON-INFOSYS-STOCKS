@@ -1,4 +1,4 @@
-In the coming modules, we will be doing various tasks to analyze and make predictions on allotted selected company stock. You
+In the coming modules, we will be doing various tasks to analyze and make predictions on allotted selected company  'INFOSYS' stock. You
 may need to learn about the underlying markets as well to complete the internship.
 Below, there is a dropdown of various industries for you to chose from. Browse through all of them and choose the industry of
 your liking and submit.

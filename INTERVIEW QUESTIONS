@@ -1,0 +1,24 @@
+IN THE INTERVIEW 6 QUESTIONS ARE GIVEN RELATED TO WHAT YOU DONE DURING YOUR INTERNSHIP , THEY GIVE 5 MINUTES IN EACH AND EVERY QNS  AND BE PRESENTABLE AS A PHYSICAL INTERVIEW.
+
+**Its not compulsary that all students get same questions to answer but here i share what are my qns that i remembered:
+
+Ques 1- DESCRIBE WHAT YOU LEARN DURING YOUR INTERNSHIP ABOUT COMPANY YOU CHOOSE AND TELL WHAT YOU REFER ABOUT STOCKS IN YOUR WAY. ALSO TELL WHO IS CEO OF THE COMPANY YOU CHOOSE.
+
+Ques 2- WHAT IS NUMPY ? HOW NUMPY HELPS IN YOUR PROJECT. ALSO TELL ABOUT ROLLING() FUNCTION USING NUMPY IN PYTHON.
+
+Ques 3- DIFFERENCE B/W CLUSTERING AND CO-ORELATION ?
+
+Ques 4- HOW CO-VARIANCE USEFUL IN MODERN PORTFOLIO THEORY? 
+
+Ques 5- IF A DATASET CONTAINS COLUMN NAMES AS "open-price" ,"close-price" ,"average-price" THEN WHAT IS OUTPUT OF FOLLOWING CODES?
+      
+      CODE 1:  df=pd.read_csv('stock.csv')
+               df_select=df['open-price','close-price','average-price']
+               print(df_select)
+     
+      CODE 2:  df=pd.read_csv('stock.csv')
+               df_select=df[['open-price','close-price','average-price']]
+               print(df_select)
+               
+               
+Ques 6- DESCRIBE K-MEANS CLUSTERING IN DETAIL. HOW YOU USE IT IN YOUR PROJECT.
